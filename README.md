@@ -1,4 +1,4 @@
-# Averge-Balance-Task
+# Average-Balance-Task
 
 PROJECT OBJECTIVE
 To calculate average monthly balances 
